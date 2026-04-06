@@ -5,7 +5,15 @@
 
 ---
 
-## 💼 Our Products
+### 🧭 Purpose
+
+**Mission:** Develop software with purpose, merging innovation and excellence to empower business transformation.
+
+**Vision:** Turn ideas into digital solutions that accelerate business success and create lasting impact.
+
+---
+
+### 💼 Our Products
 
 - 📅 **Booking API:** Designed to centralize reservation workflows and reduce manual coordination.
 - 💳 **Payment API:** Designed to simplify payment orchestration with secure, flexible transaction flows.
@@ -16,7 +24,7 @@
  <h3>💬 Let's Work Together</h3>
 
   <p>
-    We collaborate with founders, product teams, and technical leaders who need reliable API foundations for growth.
+    If you want to talk about products, or new opportunities, feel free to reach out.
   </p>
 
   <a href="mailto:radost.excelsior@gmail.com">
