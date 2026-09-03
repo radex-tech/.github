@@ -1,6 +1,5 @@
 <div align="center">
-  <h1>RADEX</h1>
-  <h3>Software Built with Excellence</h3>
+  <img src="../assets/images/logo.svg" width="auto" height="200">
 </div>
 
 ---
@@ -15,10 +14,10 @@
 
 ### 💼 Products
 
-- 📅 **Booking Platform**  
+- 📅 **kairos**  
   Designed to centralize reservation workflows and reduce manual coordination.
 
-- 💳 **Payment Platform**  
+- 💳 **niord**  
   Designed to simplify payment orchestration with secure, flexible transaction flows.
 
 ---
